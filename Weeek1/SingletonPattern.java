@@ -1,4 +1,4 @@
-public class SingletonPatternExample {
+public class SingletonPattern {
 
     public static void main(String[] args) {
 
