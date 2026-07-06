@@ -42,7 +42,7 @@ class ExcelDocumentFactory extends DocumentFactory {
     }
 }
 
-public class FactoryMethodPatternExample {
+public class FactoryMethod {
 
     public static void main(String[] args) {
 
