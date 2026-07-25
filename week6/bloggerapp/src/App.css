@@ -1,0 +1,57 @@
+.App {
+  font-family: Arial, sans-serif;
+  padding: 40px;
+}
+
+.row {
+  display: flex;
+}
+
+/* Visual order matches the screenshot: Course, Book, Blog */
+.mystyle1 {
+  order: 1;
+  padding: 0 40px;
+  border-right: 3px solid green;
+}
+
+.st2 {
+  order: 2;
+  padding: 0 40px;
+  border-right: 3px solid green;
+}
+
+.v1 {
+  order: 3;
+  padding: 0 40px;
+}
+
+h1 {
+  font-size: 22px;
+}
+
+h2 {
+  font-size: 20px;
+  margin-bottom: 2px;
+}
+
+h3 {
+  font-size: 18px;
+  margin-bottom: 2px;
+}
+
+h4 {
+  font-size: 14px;
+  font-weight: normal;
+  margin-top: 0;
+  margin-bottom: 12px;
+  color: #555;
+}
+
+p {
+  color: #777;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
